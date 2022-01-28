@@ -1,0 +1,11 @@
+body{
+    background: #00f;
+}
+div{
+    width: 600px;
+    height: 450px;
+    margin: auto;
+}
+img{
+    position: absolute;
+}
